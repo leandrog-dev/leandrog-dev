@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+em+formação;Seja+bem-vindo+ao+meu+GitHub!;Sempre+aprendendo+e+evoluindo" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Seja+bem-vindo+ao+meu+GitHub!"/>
 </p>
 <p align="center">
  Estudante de Análise e Desenvolvimento de Sistemas <br>
