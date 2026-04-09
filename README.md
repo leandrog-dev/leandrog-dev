@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">
+<h3 aling="center">
 Estudante de Análise e Desenvolvimento de Sistemas<br>
 Desenvolvedor Front-end em formação
 </h3>
