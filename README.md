@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Leandro 👋</h1>
 
-<!--
-**leandrog-dev/leandrog-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🚀 Desenvolvedor Front-end em formação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de ADS na Unisinos (3º semestre)  
+💡 Focado em desenvolvimento web, principalmente Front-end  
+📚 Sempre buscando evoluir e aprender novas tecnologias  
+🎯 Em busca da minha primeira oportunidade como desenvolvedor  
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Front-end
+- HTML
+- CSS
+- JavaScript
+- React
+
+### ⚙️ Back-end (básico)
+- Node.js
+
+### 🧰 Ferramentas
+- Git
+- GitHub
+
+---
+
+## 🌎 Idiomas
+
+- Português: Nativo 🇧🇷  
+- Inglês: Básico / Intermediário 🇺🇸  
+
+---
+
+## 📈 Objetivo
+
+Busco uma oportunidade para aplicar meus conhecimentos na prática, evoluir como desenvolvedor e contribuir com projetos reais, criando interfaces modernas, funcionais e com foco na experiência do usuário.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/leandrogabrieldevgg
+- Email: leandrogabrieljsuni@gmail.com
+---
