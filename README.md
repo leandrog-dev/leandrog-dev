@@ -1,4 +1,9 @@
-
+<p align="left">
+  <a href="https://www.unisinos.br">
+    <img src="https://www.unisinos.br/images/logo_unisinos.png" width="30"/>
+    Universidade do Vale do Rio dos Sinos
+  </a>
+</p>
 <p align="right">
   <a href="https://www.linkedin.com/in/leandrogabrieldevgg" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
