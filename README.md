@@ -4,10 +4,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
 </p>
-<p align="center">
- Estudante de Análise e Desenvolvimento de Sistemas <br>
- Desenvolvedor Front-end em formação
-</p>
+
+<h2 align="center">
+Estudante de Análise e Desenvolvimento de Sistemas<br>
+Desenvolvedor Front-end em formação
+</h2>
 
 ---
 
