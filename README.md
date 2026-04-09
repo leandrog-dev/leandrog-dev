@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou o Leandro 👋</h1>
 
 <p align="center">
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
