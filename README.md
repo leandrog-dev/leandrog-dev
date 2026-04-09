@@ -1,7 +1,6 @@
-
 <p align="right">
-  <a href="https://www.linkedin.com/in/leandrogabrieldevgg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  <a href="https://www.linkedin.com/in/leandrogabrieldevgg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
   </a>
 </p>
 
@@ -12,52 +11,33 @@ Desenvolvedor Front-end em formação
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> Sobre mim 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> Sobre mim
 
-Estudante de ADS na Unisinos (3º semestre)  
-Focado em desenvolvimento web, principalmente Front-end  
-Sempre buscando evoluir e aprender novas tecnologias  
-Em busca da minha primeira oportunidade como desenvolvedor 
+Estudante de ADS na Unisinos (3º semestre), focado em desenvolvimento Front-end.  
+Buscando evolução constante e minha primeira oportunidade na área.
 
 ---
+
 ## 🛠️ Tecnologias
 
-### Front-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
 </p>
-
-### Back-end (básico)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
-
-
----
-
-## 🌎 Idiomas
-
-- Português: Nativo
-- Inglês: Básico / Intermediário
 
 ---
 
 ## 📈 Objetivo
 
-Iniciar minha carreira como desenvolvedor, contribuindo com projetos reais e aplicando boas práticas de desenvolvimento. Busco evoluir continuamente, adquirindo experiência prática e me tornando um profissional cada vez mais completo na área de tecnologia.
+Iniciar minha carreira como desenvolvedor, aplicando boas práticas e adquirindo experiência prática em projetos reais.
 
 ---
 
-## 📫 Contato
+## 🌎 Idiomas
 
-- LinkedIn: https://www.linkedin.com/in/leandrogabrieldevgg
-- Email: leandrogabrieljsuni@gmail.com
+Português (Nativo) • Inglês (Básico/Intermediário)
