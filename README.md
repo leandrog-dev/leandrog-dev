@@ -1,17 +1,17 @@
 
 <p align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Desenvolvedor Front-end em formação
+ Estudante de Análise e Desenvolvimento de Sistemas <br>
+ Desenvolvedor Front-end em formação
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de ADS na Unisinos (3º semestre)  
-💡 Focado em desenvolvimento web, principalmente Front-end  
-📚 Sempre buscando evoluir e aprender novas tecnologias  
-🎯 Em busca da minha primeira oportunidade como desenvolvedor  
+Estudante de ADS na Unisinos (3º semestre)  
+Focado em desenvolvimento web, principalmente Front-end  
+Sempre buscando evoluir e aprender novas tecnologias  
+Em busca da minha primeira oportunidade como desenvolvedor 
 
 ---
 
@@ -34,14 +34,14 @@
 
 ## 🌎 Idiomas
 
-- Português: Nativo 🇧🇷  
-- Inglês: Básico / Intermediário 🇺🇸  
+- Português: Nativo
+- Inglês: Básico / Intermediário
 
 ---
 
 ## 📈 Objetivo
 
-Busco uma oportunidade para aplicar meus conhecimentos na prática, evoluir como desenvolvedor e contribuir com projetos reais, criando interfaces modernas, funcionais e com foco na experiência do usuário.
+Iniciar minha carreira como desenvolvedor, contribuindo com projetos reais e aplicando boas práticas de desenvolvimento. Busco evoluir continuamente, adquirindo experiência prática e me tornando um profissional cada vez mais completo na área de tecnologia.
 
 ---
 
