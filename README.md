@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<h2 align="center">
+<h3 align="center">
 Estudante de Análise e Desenvolvimento de Sistemas<br>
 Desenvolvedor Front-end em formação
-</h2>
+</h3>
 
 ---
 
