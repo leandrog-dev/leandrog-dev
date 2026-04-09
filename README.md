@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://www.linkedin.com/in/leandrogabrieldevgg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
 </p>
 
@@ -40,4 +40,4 @@ Iniciar minha carreira como desenvolvedor, aplicando boas práticas e adquirindo
 
 ## 🌎 Idiomas
 
-Português (Nativo) • Inglês (Básico/Intermediário)
+Português (Nativo) | Inglês (Básico/Intermediário)
