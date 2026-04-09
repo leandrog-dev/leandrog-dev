@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.unisinos.br">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGnsHZXkF4RhQ/company-logo_100_100/company-logo_100_100/0/1702659404462/universidade_do_vale_do_rio_dos_sinos_logo?e=1777507200&v=beta&t=0hjy6Y84cFnZSwDMjtvvEUc1WQa5MMKUOqSaUEIkN-o" width="25"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGnsHZXkF4RhQ/company-logo_100_100/company-logo_100_100/0/1702659404462/universidade_do_vale_do_rio_dos_sinos_logo?e=1777507200&v=beta&t=0hjy6Y84cFnZSwDMjtvvEUc1WQa5MMKUOqSaUEIkN-o" width="50"/>
     Análise e Desenvolvimento de Sistemas
   </a>
 </p>
