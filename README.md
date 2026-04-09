@@ -6,7 +6,7 @@
 
 ---
 
-## ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> Sobre mim 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> Sobre mim 
 
 Estudante de ADS na Unisinos (3º semestre)  
 Focado em desenvolvimento web, principalmente Front-end  
