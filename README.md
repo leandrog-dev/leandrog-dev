@@ -37,7 +37,4 @@ Buscando evolução constante e minha primeira oportunidade na área.
 Iniciar minha carreira como desenvolvedor, aplicando boas práticas e adquirindo experiência prática em projetos reais.
 
 ---
-
-## 🌎 Idiomas
-
 Português (Nativo) | Inglês (Básico/Intermediário)
