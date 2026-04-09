@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Seu+Banner" />
-</p>
 
 <p align="right">
   <a href="https://www.linkedin.com/in/leandrogabrieldevgg">
