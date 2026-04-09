@@ -11,14 +11,14 @@ Desenvolvedor Front-end em formação
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Sobre mim
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>  Sobre mim
 
 Estudante de ADS na Unisinos (3º semestre), focado em desenvolvimento Front-end.  
 Buscando evolução constante e minha primeira oportunidade na área.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/> Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/>  Stacks
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
