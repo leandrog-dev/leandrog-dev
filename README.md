@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
 <p align="right">
   <a href="https://www.linkedin.com/in/leandrogabrieldevgg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
