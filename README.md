@@ -18,7 +18,7 @@ Buscando evolução constante e minha primeira oportunidade na área.
 
 ---
 
-## 🛠️ Tecnologias
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="16"/> Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
