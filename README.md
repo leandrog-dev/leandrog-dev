@@ -56,3 +56,108 @@ Iniciar minha carreira como desenvolvedor, contribuindo com projetos reais e apl
 - LinkedIn: https://www.linkedin.com/in/leandrogabrieldevgg
 - Email: leandrogabrieljsuni@gmail.com
 ---
+Distintivos Genéricos (com cor)
+
+shields.io Distintivo genérico com cor
+
+[![shields.io Generic badge with color](https://img.shields.io/badge/SUBJECT-STATUS-green)](https://shields.io/)
+shields.io Genérico para o distintivo com cor
+
+[![shields.io Generic for-the-badge with color](https://img.shields.io/badge/SUBJECT-STATUS-green?style=for-the-badge)](https://shields.io/)
+badgen.net Distintivo genérico com cor
+
+[![badgen.net Generic badge with color](https://badgen.net/badge/SUBJECT/STATUS/green)](https://badgen.net)
+Distintivos Genéricos (sem cor)
+
+shields.io Distintivo genérico sem cor
+
+[![shields.io Generic badge no color](https://img.shields.io/badge/SUBJECT-STATUS-COLOR)](https://shields.io/)
+shields.io Genérico para o distintivo com cor
+
+[![shields.io Generic for-the-badge with color](https://img.shields.io/badge/SUBJECT-STATUS-COLOR?style=for-the-badge)](https://shields.io/)
+badgen.net Distintivo genérico sem cor
+
+[![badgen.net Generic badge no color](https://badgen.net/badge/SUBJECT/STATUS)](https://badgen.net)
+Licença
+shields.io Licença
+
+[![shields.io License](https://img.shields.io/github/license/microsoft/vscode)](https://github.com/microsoft/vscode/blob/master/LICENSE)
+badgen.net Licença
+
+[![badgen.net License](https://badgen.net/github/license/microsoft/vscode)](https://github.com/microsoft/vscode/blob/master/LICENSE)
+Lançamento
+Lançamento Recente
+
+shields.io Lançamento Último
+
+[![shields.io Release Latest](https://img.shields.io/github/v/release/microsoft/vscode)](https://github.com/microsoft/vscode/releases/latest)
+badgen.net Release Latest
+
+[![badgen.net Release Latest](https://badgen.net/github/release/microsoft/vscode)](https://github.com/microsoft/vscode/releases/latest)
+Última Tag
+
+shields.io Última Marca
+
+[![shields.io Tag Latest](https://img.shields.io/github/tag/microsoft/vscode)](https://github.com/microsoft/vscode/tag)
+badgen.net Última Marca
+
+[![badgen.net Tag Latest](https://badgen.net/github/tag/microsoft/vscode)](https://github.com/microsoft/vscode/tag)
+Github Social (Watchers/Stars/Forks)
+Observadores
+
+shields.io Observadores com estilo social
+
+[![shields.io Watchers with style social](https://img.shields.io/github/watchers/microsoft/vscode?style=social)](https://github.com/microsoft/vscode/watchers)
+shields.io Observadores
+
+[![shields.io Watchers](https://img.shields.io/github/watchers/microsoft/vscode)](https://github.com/microsoft/vscode/watchers)
+badgen.net Observadores
+
+[![badgen.net Watchers](https://badgen.net/github/watchers/microsoft/vscode)](https://github.com/microsoft/vscode/watchers)
+Estrelas
+
+shields.io Estrelas com estilo social
+
+[![shields.io Stars with style social](https://img.shields.io/github/stars/microsoft/vscode?style=social)](https://github.com/microsoft/vscode/stargazers)
+shields.io Estrelas
+
+[![shields.io Stars](https://img.shields.io/github/stars/microsoft/vscode)](https://github.com/microsoft/vscode/stargazers)
+badgen.net Estrelas
+
+[![badgen.net Stars](https://badgen.net/github/stars/microsoft/vscode)](https://github.com/microsoft/vscode/watchers)
+Forks
+
+shields.io Forks com estilo social
+
+[![shields.io Forks with style social](https://img.shields.io/github/forks/microsoft/vscode?style=social)](https://github.com/microsoft/vscode/forks)
+shields.io Forks
+
+[![shields.io Forks](https://img.shields.io/github/forks/microsoft/vscode)](https://github.com/microsoft/vscode/network/members)
+badgen.net Forks
+
+[![badgen.net Forks](https://badgen.net/github/forks/microsoft/vscode)](https://github.com/microsoft/vscode/network/members)
+Rastreamento de Questões
+Total Issues
+
+shields.io Questões
+
+[![shields.io Issues](https://img.shields.io/github/issues/microsoft/vscode)](https://github.com/microsoft/vscode/issues)
+badgen.net Questões
+
+[![badgen.net Issues](https://badgen.net/github/issues/microsoft/vscode)](https://github.com/microsoft/vscode/issues)
+Questões em aberto
+
+shields.io Questões em aberto
+
+[![shields.io Issues Open](https://img.shields.io/github/issues-raw/microsoft/vscode)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue)
+badgen.net Questões em aberto
+
+[![badgen.net Issues Open](https://badgen.net/github/open-issues/microsoft/vscode)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue)
+Edições Encerradas
+
+shields.io Edições Encerradas
+
+[![shields.io Issues Closed](https://img.shields.io/github/issues-closed-raw/microsoft/vscode)](https://github.com/microsoft/vscode/issues?q=is%3Aissue+is%3Aclosed)
+badgen.net Edições encerradas
+
+[![badgen.net Issues Closed](https://badgen.net/github/closed-issues/microsoft/vs
