@@ -1,6 +1,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Seja+bem-vindo+ao+meu+GitHub!"/>
 </p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/leandrogabrieldevgg" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+</p>
 <p align="center">
  Estudante de Análise e Desenvolvimento de Sistemas <br>
  Desenvolvedor Front-end em formação
