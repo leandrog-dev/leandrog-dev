@@ -22,7 +22,7 @@ Buscando evolução constante e minha primeira oportunidade na área.
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/>  Stacks
 
 <p>
-   <img src="https://skillicons.dev/icons?i=js,,java,react,nodejs,git,github,html,css" height="65" /> 
+   <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,git,github,html,css" height="65" /> 
 </p>
 
 ---
