@@ -1,4 +1,3 @@
-
 <p align="right">
   <a href="https://www.linkedin.com/in/leandrogabrieldevgg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
@@ -29,7 +28,7 @@ Buscando evolução constante e minha primeira oportunidade na área.
 
 ## 📈 Objetivo
 
-Iniciar minha carreira como desenvolvedor, aplicando boas práticas e adquirindo experiência prática em projetos reais.
+Desenvolvedor em formação focado em criar aplicações reais utilizando boas práticas, com ênfase em aprendizado contínuo e desenvolvimento prático.
 
 ---
 Português (Nativo) | Inglês (Básico/Intermediário)
