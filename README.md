@@ -25,10 +25,4 @@ Buscando evolução constante e minha primeira oportunidade na área.
 </p>
 
 ---
-
-## 📈 Objetivo
-
-Desenvolvedor em formação focado em criar aplicações reais utilizando boas práticas, com ênfase em aprendizado contínuo e desenvolvimento prático.
-
----
 Português (Nativo) | Inglês (Básico/Intermediário)
